@@ -1,0 +1,19 @@
+[project]
+name = "ai-crash-course"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-google-genai",
+    "langchain-groq",
+    "langchain-chroma",
+    "langchain-huggingface",
+    "langchain-community",
+    "chromadb",
+    "sentence-transformers",
+    "pypdf",
+    "python-dotenv",
+    "streamlit",
+    "jupyter",
+    "notebook",
+]
